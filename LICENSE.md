@@ -1,4 +1,4 @@
-
+Enhance Strong for macOS with instant Strong for macOS Automation | sleep-tracking + heart-rate-monitoring, the #1 automation. Includes sleep-tracking and heart-rate-monitoring
 
 
 
